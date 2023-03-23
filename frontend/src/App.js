@@ -15,7 +15,7 @@ function App() {
         <MainNavigation/>
         <main>
         <Switch>
-        <Route path="/users">
+        <Route path="/">
           <User/>
            
         </Route>
